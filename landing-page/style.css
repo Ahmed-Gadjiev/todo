@@ -1,0 +1,40 @@
+
+*{
+    box-sizing: border-box;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    padding: 0;
+}
+
+.card{
+    max-width: 500px;
+    max-height: 200px;
+    background-color: burlywood;
+}
+
+p{
+    margin: 5px;
+}
+
+.closeCard{
+    width: 25px;
+    height: 25px;
+    float: right;
+    cursor: pointer;
+}
+
+input{
+    margin: 20px;
+}
+
